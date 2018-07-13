@@ -1,0 +1,15 @@
+{
+  "name": "graphql-play",
+  "version": "1.0.0",
+  "description": "GraphQL pattern exploration project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "graphql",
+    "poc"
+  ],
+  "author": "Matthew Jackson <mwj8410@gmail.com>",
+  "license": "UNLICENSED"
+}

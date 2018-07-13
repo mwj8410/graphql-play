@@ -1,0 +1,9 @@
+.nyc_output
+backups/
+node_modules/
+npm-debug.log
+/doc
+.idea/
+coverage/
+.env
+*.save
